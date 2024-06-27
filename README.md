@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Researcher and Developer </h3>
 
-❤️ I prefer Web Scraping with Python and Go
-🤔 I'm currently working with Back-End Development and Data Mining
-✨ I study: Engineering, Machine Learning, Computer Vision, Malware Analysis
+- ❤️ I prefer making tools and Web Scraping with Python, Go
+- 🤔 I'm currently working with Back-End Development and Data Mining
+- ✨ I study: Engineering, Machine Learning, Computer Vision, Malware Analysis
 
 
 
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 3+ years of experience in SOC, Offensive Security, Linux, Bug Bounty, and Programming
-- 3+ years of experience in Python
+- 2+ years of experience in SOC, Offensive Security, Linux, Bug Bounty, and Programming
+- 2+ years of experience in Python
 - 1+ years of experience in Go and C++
 - 🏆 Scrapers (Youtube, Facebook, Daraz, Amazon)
 - ❤️ API, RESTful API, GraphQL
