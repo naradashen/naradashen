@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 ## My Journey
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=naradashen&show_icons=true&theme=tokyonight">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=naradashen&layout=compact&theme=tokyonight" />
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naradashen&hide_progress=true&theme=tokyonight" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=naradashen&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=naradashen&theme=tokyonight" />
 </div>
