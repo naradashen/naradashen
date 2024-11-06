@@ -100,6 +100,24 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
   <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=anaconda" height="30" alt="anaconda logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="sklearn logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  /></code>
+ <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  /></code>
+ <img width="12" />
 </div>
 
 
