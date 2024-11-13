@@ -120,6 +120,7 @@ Here are some ideas to get you started:
   <!-- Automation & Testing -->
   <h3>Automation & Testing</h3>
   <code><img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  /></code>
+  <code><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" height="30" alt="puppeteer logo"  /></code>
 </div>
 
 
