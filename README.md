@@ -118,6 +118,8 @@ Here are some ideas to get you started:
  <img width="12" />
  <code><img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  /></code>
  <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  /></code>
+ <img width="12" />
 </div>
 
 
