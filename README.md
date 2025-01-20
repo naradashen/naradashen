@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Narada 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Researcher and Developer </h3>
 
 - ❤️ I prefer making tools and Web Scraping with Python, Go
