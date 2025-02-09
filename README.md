@@ -30,14 +30,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 2+ years of experience in SOC, Offensive Security, Linux, Bug Bounty, and Programming
-- 2+ years of experience in Python
-- 1+ years of experience in Go and C++
+- SOC, Offensive Security, Linux, Bug Bounty, and Programming
 - 🏆 Scrapers (Youtube, Facebook, Daraz, Amazon)
 - ❤️ API, RESTful API, GraphQL
-- Neovim, Burpsuite, Metasploit, Powershell
-- git, CI/CD
-- JWT
 
 <div align="left">
   <!-- Languages -->
