@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 ## About me:
-- 😄 Fun fact: I'm a nightcrawler who makes cyber weapons
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 💬 Ask me about `OffSec` or `Backend`
 
