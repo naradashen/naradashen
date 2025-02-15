@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Narada 👋 </h1>
 <h3 align="center">Aspiring Researcher and Developer </h3>
 
-- ❤️ I prefer making tools and Web Scraping with Python, Go
-- 🤔 I'm currently working with Back-End Development and Data Mining
-- ✨ I study: Engineering, Machine Learning, Computer Vision, Malware Analysis
-
-
 
 ## About me:
 - 🔭 I’m looking to collaborate on commercial projects and startups
