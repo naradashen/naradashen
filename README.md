@@ -47,13 +47,12 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Web Development -->
   <h3>Web Development</h3>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" alt="react logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=react" height="10" alt="react logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" alt="css3 logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="10" alt="graphql logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="10" alt="nodejs logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="10" alt="npm logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=html" height="10" alt="html5 logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=css" height="10" alt="css3 logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=gql" height="10" alt="graphql logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=nodejs" height="10" alt="nodejs logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=npm" height="10" alt="npm logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=wordpress" height="10" alt="wordpress logo"  /></code>
 </div>
 
@@ -74,7 +73,7 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Databases -->
   <h3>Databases</h3>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="10" alt="mongodb logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=mongodb" height="10" alt="mongodb logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=mysql" height="10" alt="mysql logo"  /></code>
 </div>
 
@@ -86,12 +85,11 @@ Here are some ideas to get you started:
   <code><img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  /></code>
-  <code><img src="https://www.kindpng.com/picc/m/206-2064380_burp-suite-icon-png-transparent-png.png" height="30" alt="burp logo"  /></code>
-  <code><img src="https://www.kali.org/images/kali-dragon-icon.svg" height="30" alt="kali logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=debian" height="30" alt="debian logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=kali" height="30" alt="kali logo"  /></code>
 </div>
 
 <hr>
@@ -99,8 +97,8 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Embedded Systems & IoT -->
   <h3>Embedded Systems & IoT</h3>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  /></code>
 </div>
 
 <hr>
