@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Languages -->
   <h3>Languages</h3>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="10" alt="typescript logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=js" height="10" alt="js logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=ts" height="10" alt="ts logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=c" height="10" alt="c logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=cpp" height="10" alt="cpp logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=cs" height="10" alt="csharp logo"  /></code>
