@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Languages -->
   <h3>Languages</h3>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="10" alt="typescript logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=c" height="10" alt="c logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=cpp" height="10" alt="cpp logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=cs" height="10" alt="csharp logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=golang" height="10" alt="golang logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=r" height="10" alt="r logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=python" height="10" alt="python logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=latex" height="10" alt="latex logo"  /></code>
 </div>
 
 <hr>
@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Web Development -->
   <h3>Web Development</h3>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" alt="css3 logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="10" alt="graphql logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="10" alt="nodejs logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="10" alt="npm logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=wordpress" height="10" alt="wordpress logo"  /></code>
 </div>
 
 <hr>
@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Data & ML -->
   <h3>Data & ML</h3>
-  <code><img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="sklearn logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=anaconda" height="30" alt="anaconda logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=tensorflow" height="10" alt="tensorflow logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=pytorch" height="10" alt="pytorch logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=sklearn" height="10" alt="sklearn logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=anaconda" height="10" alt="anaconda logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=matlab" height="10" alt="matlab logo"  /></code>
 </div>
 
 <hr>
@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Databases -->
   <h3>Databases</h3>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="10" alt="mongodb logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=mysql" height="10" alt="mysql logo"  /></code>
 </div>
 
 <hr>
