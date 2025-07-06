@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <!-- Web Development -->
   <h3>Web Development</h3>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" alt="react logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=react" height="10" alt="react logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" alt="css3 logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="10" alt="graphql logo"  /></code>
