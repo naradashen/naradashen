@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 <div align="left">
   <!-- Data & ML -->
   <h3>Data & ML</h3>
-  <code><img src="https://skillicons.dev/icons?i=tensorflow" height="10" alt="tensorflow logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=pytorch" height="10" alt="pytorch logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=sklearn" height="10" alt="sklearn logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=anaconda" height="10" alt="anaconda logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=matlab" height="10" alt="matlab logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="sklearn logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=anaconda" height="30" alt="anaconda logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  /></code>
 </div>
 
 <hr>
