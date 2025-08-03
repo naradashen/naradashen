@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Narada 👋 </h1>
-<h3 align="center">Tech Enthusiast </h3>
+<h3 align="center">Digital Strategist | RPA, ETL, IoT & System Automation | Driving Innovation </h3>
 
 
 ## About me:
