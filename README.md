@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## My stack:
 - SOC, Offensive Security, Linux, Bug Bounty, and Programming
-- 🏆 Scrapers (Youtube, Facebook, Daraz, Amazon)
+- 🏆 Scrapers (Youtube, Facebook, Daraz, Amazon, Bikroy, IMDB, Booking.com,...)
 - ❤️ API, RESTful API, GraphQL
 
 <div align="left">
